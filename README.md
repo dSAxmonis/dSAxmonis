@@ -66,3 +66,14 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=dSAxmonis&theme=radical&hide_border=false" height="200" alt="Streak stats" style="max-width: 100%; min-width: 300px;"/>
 </div>
+
+
+### Core Engineering & Foundations
+<p>
+  <img height="40px" src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" title="MATLAB"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/>
+</p>
+
+> **CS Fundamentals:** Data Structures & Algorithms (DSA) • Object-Oriented Programming (OOPs) • Software Engineering (SDLC) • Database Management Systems (DBMS)
