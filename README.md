@@ -51,6 +51,8 @@
   <img height="40px" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=render" alt="Render" title="Render"/>&nbsp;&nbsp; 
+  <img height="40px" src="https://skillicons.dev/icons?i=JWT" alt="JWT" title="JWT"/>&nbsp;&nbsp; 
+  <img height="40px" src="https://skillicons.dev/icons?i=firebase" alt="FireBase" title="Firebase"/>&nbsp;&nbsp; 
 </p>
 
 ---
