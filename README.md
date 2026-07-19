@@ -4,7 +4,7 @@
   <p>Fullstack Developer and Problem Solver</p>
 
   <div>
-    <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="Mario coding animation" style="width: 100%; max-width: 1200px; border-radius: 15px;" />
+    <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="Mario coding animation" style="width: 120%; max-width: 1200px; border-radius: 15px;" />
   </div>
 
   <!-- Social Badges -->
@@ -25,14 +25,18 @@
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=c" alt="C" title="C"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>&nbsp;&nbsp
   <img height="40px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
 </p>
 
+### frontend
+<p>
+ <img height="40px" src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;&nbsp;
+<p>
+  
 ### Frameworks & Libraries
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>&nbsp;&nbsp;
@@ -50,8 +54,8 @@
   <img height="40px" src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=render" alt="Render" title="Render"/>&nbsp;&nbsp; 
-  <img height="40px" src="https://skillicons.dev/icons?i=JWT" alt="JWT" title="JWT"/>&nbsp;&nbsp; 
+  <img height="40px" src="https://cdn.simpleicons.org/render" alt="Render" title="Render"/>
+  <img height="40px" src="https://www.jwt.io/img/pic_logo.svg" alt="JWT" title="JWT"/>&nbsp;&nbsp; 
   <img height="40px" src="https://skillicons.dev/icons?i=firebase" alt="FireBase" title="Firebase"/>&nbsp;&nbsp; 
 </p>
 
