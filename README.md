@@ -54,9 +54,11 @@
   <img height="40px" src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;
-  <img height="40px" src="https://cdn.simpleicons.org/render" alt="Render" title="Render"/>
+  <img height="40px" src="https://cdn.simpleicons.org/render/FFFFFF" alt="Render" title="Render"/>
+  <img height="40px" src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="Render" title="Render"/>
   <img height="40px" src="https://www.jwt.io/img/pic_logo.svg" alt="JWT" title="JWT"/>&nbsp;&nbsp; 
   <img height="40px" src="https://skillicons.dev/icons?i=firebase" alt="FireBase" title="Firebase"/>&nbsp;&nbsp; 
+ 
 </p>
 
 ---
